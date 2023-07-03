@@ -21,8 +21,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub hermandev Apache Maven Packages</name>
-      <url>https://mvn.pkg.github.com/hermandev/bpjsapi</url>
+      <name>GitHub corn404 Apache Maven Packages</name>
+      <url>https://mvn.pkg.github.com/corn404/bpjsapi</url>
     </repository>
   </distributionManagement>
 
