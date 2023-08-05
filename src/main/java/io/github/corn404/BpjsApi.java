@@ -1,7 +1,7 @@
-package id.codecorn.bpjsapi;
+package io.github.corn404;
 
-import id.codecorn.bpjsapi.dto.AesKeySpec;
-import id.codecorn.bpjsapi.utils.Signature;
+import io.github.corn404.dto.AesKeySpec;
+import io.github.corn404.utils.Signature;
 
 import javax.crypto.*;
 import javax.crypto.spec.IvParameterSpec;

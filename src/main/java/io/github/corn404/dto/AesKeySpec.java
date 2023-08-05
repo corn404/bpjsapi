@@ -1,4 +1,4 @@
-package id.codecorn.bpjsapi.dto;
+package io.github.corn404.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

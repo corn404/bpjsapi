@@ -1,4 +1,4 @@
-package id.codecorn.bpjsapi.utils;
+package io.github.corn404.utils;
 
 import java.util.*;
 

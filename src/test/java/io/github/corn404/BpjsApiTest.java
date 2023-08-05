@@ -1,4 +1,4 @@
-package id.codecorn.bpjsapi;
+package io.github.corn404;
 
 import static org.junit.Assert.assertTrue;
 
